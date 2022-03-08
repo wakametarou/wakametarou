@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=wakametarou)]
+![trophy](https://github-profile-trophy.vercel.app/?username=wakametarou)
