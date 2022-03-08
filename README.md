@@ -1,2 +1,2 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=wakametarou)
-![Anurag'sAnurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakametarou)
+![trophy](https://github-profile-trophy.vercel.app/?username=wakametarou&show_icons=true&theme=radical)
+![Wakame's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakametarou&show_icons=true&theme=radical)
